@@ -13,4 +13,4 @@
 
 ## Сертификаты
 
-[certificate_analystsim.pdf](https://github.com/allopachuk/allopachuk/files/11213974/certificate_analystsim.pdf)
+![image](https://user-images.githubusercontent.com/122831288/231527050-5195a6ea-8081-44c6-97b7-f216d45ebbfe.png)
