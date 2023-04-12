@@ -10,7 +10,7 @@
 
 Спасибо, что прочитали!
 
-## Проекты [здесь](allopachuk/study_projects)
+## Проекты [здесь](https://github.com/allopachuk/study_projects)
 
 ## Сертификаты
 
